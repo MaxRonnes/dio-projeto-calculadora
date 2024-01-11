@@ -28,3 +28,4 @@ if(calculoRank(vitorias,derrotas) <= 10){
 }else if(calculoRank(vitorias,derrotas) >=101){
     console.log("Jogador tem saldo de vitória de " +saldoDeVitoria + " esta no Imortal")
 }
+
